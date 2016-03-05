@@ -1,0 +1,3 @@
+notes
+
+if it needs to talk to redux, make it a container
